@@ -1,0 +1,5 @@
+img {border-style:dashed; border-width:5px; margin:15px;}
+p {font-famiy:Arial;}
+h1 {color:green; font-family:Palatino;}
+h2 {color:green; font-family:Courier;}
+p.fancy {border:solid; border-color:orange; background-color:pale yellow;}
